@@ -31,7 +31,7 @@ Install Dependencies: Auto-installs missing tools
 Start New Scan: Begin penetration testing
 
 Exit: Quit the program
-
+```
 Automated Workflow 🔄
 Subdomain Enumeration (subfinder)
 
